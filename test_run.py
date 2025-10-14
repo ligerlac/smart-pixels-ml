@@ -54,7 +54,7 @@ try:
     import qkeras
 
     # custom modules
-    from OptimizedDataGenerator import OptimizedDataGenerator
+    from OptimizedDataGenerator_v2 import OptimizedDataGenerator
     from loss import custom_loss
     from models import CreateModel
     
